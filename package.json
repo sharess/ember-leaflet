@@ -1,5 +1,5 @@
 {
-  "name": "ember-leaflet",
+  "name": "ember-leaflet-cl",
   "version": "3.0.18",
   "description": "Easy and declarative mapping for ember.",
   "scripts": {
