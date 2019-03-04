@@ -8,7 +8,7 @@ Ember Leaflet works in Ember 1.13.9+ with no deprecations.
 
 To install it run:
 ```
-ember install ember-leaflet
+ember install ember-leaflet-cl
 ```
 
 This will also add the `leaflet` package to your project.
