@@ -73,9 +73,9 @@
     "mapping",
     "maps"
   ],
-  "repository": "https://github.com/miguelcobain/ember-leaflet.git",
+  "repository": "https://github.com/miguelcobain/ember-leaflet-cl.git",
   "license": "MIT",
-  "author": "Miguel Andrade <jmandrade0@gmail.com>",
+  "author": "Miguel Andrade <jmandrade0@gmail.com>, Francesco Di Girolamo contrib",
   "directories": {
     "doc": "doc",
     "test": "tests"
