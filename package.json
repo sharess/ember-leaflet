@@ -63,7 +63,7 @@
     "resolve": "^1.10.0"
   },
   "peerDependencies": {
-    "leaflet": ">=0.7"
+    "leaflet-cl": ">=0.7"
   },
   "keywords": [
     "ember-addon",
@@ -73,7 +73,7 @@
     "mapping",
     "maps"
   ],
-  "repository": "https://github.com/miguelcobain/ember-leaflet-cl.git",
+  "repository": "https://github.com/sharess/ember-leaflet-cl.git",
   "license": "MIT",
   "author": "Miguel Andrade <jmandrade0@gmail.com>, Francesco Di Girolamo contrib",
   "directories": {
